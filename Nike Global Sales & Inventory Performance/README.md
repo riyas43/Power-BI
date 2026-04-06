@@ -30,14 +30,14 @@
 - Average Discount %: 24.75%
 
 ## Dashboard Sections & Insights
-- ### Overview Page
+### 1.Overview Page
 
 Purpose: Quick snapshot of business health
 
 - KPIs (Revenue, Products, Availability).
 - High-level performance indicators.
 
-- ### Pricing & Discount Analysis
+### 2.Pricing & Discount Analysis
 
 Purpose: Understand pricing strategy effectiveness
 
@@ -49,7 +49,7 @@ Purpose: Understand pricing strategy effectiveness
 
 #### Insight: Premium products contribute high value despite lower volume.
 
-- ### Customer Segment Analysis
+### 3.Customer Segment Analysis
 
 Purpose: Understand target audience behavior.
 
@@ -60,7 +60,7 @@ Purpose: Understand target audience behavior.
 - MEN segment dominates product count
 - Mixed segments (MEN|WOMEN) have higher average pricing.
 
-- ###  Size-Level Analysis
+### 4.Size-Level Analysis
 
 Purpose: Optimize inventory planning
 
