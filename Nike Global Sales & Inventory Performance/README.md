@@ -30,16 +30,16 @@
 - Average Discount %: 24.75%
 
 ## Dashboard Sections & Insights
-### 1.Overview Page
+### 1. Overview Page
 
-Purpose: Quick snapshot of business health
+Purpose: Quick snapshot of business health.
 
 - KPIs (Revenue, Products, Availability).
 - High-level performance indicators.
 
-### 2.Pricing & Discount Analysis
+### 2. Pricing & Discount Analysis
 
-Purpose: Understand pricing strategy effectiveness
+Purpose: Understand pricing strategy effectiveness.
 
 - Product-wise price vs discount vs quantity.
 - Top 10 highest discount products.
@@ -49,7 +49,7 @@ Purpose: Understand pricing strategy effectiveness
 
 #### Insight: Premium products contribute high value despite lower volume.
 
-### 3.Customer Segment Analysis
+### 3. Customer Segment Analysis
 
 Purpose: Understand target audience behavior.
 
@@ -60,9 +60,9 @@ Purpose: Understand target audience behavior.
 - MEN segment dominates product count
 - Mixed segments (MEN|WOMEN) have higher average pricing.
 
-### 4.Size-Level Analysis
+### 4. Size-Level Analysis
 
-Purpose: Optimize inventory planning
+Purpose: Optimize inventory planning.
 
 - Size-wise available stock (M, L, S highest),
 - Revenue potential by size.
@@ -71,3 +71,27 @@ Purpose: Optimize inventory planning
 #### Insight: 
 - Common sizes (M, L, S) have highest demand.
 - Stockouts exist even in high-demand sizes → opportunity loss.
+
+### 5. Category & Sub-Category Analysis
+
+Purpose: Identify high-performing product lines.
+
+- Revenue distribution:
+- FOOTWEAR (~64%)
+- APPAREL (~35%)
+- EQUIPMENT (very low)
+
+#### Insight:
+- Footwear is the core revenue driver.
+- Equipment category is underperforming.
+
+### 6. Product-Level Analysis
+
+Purpose: Deep dive into product performance.
+
+- Price & discount summary.
+- Top premium products (Nike Sportswear, Nike Tech, etc.)
+- Product distribution across segments.
+
+#### Insight:
+- Few premium products contribute disproportionately to revenue.
