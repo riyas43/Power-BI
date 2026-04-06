@@ -98,7 +98,7 @@ Purpose: Deep dive into product performance.
 Few premium products contribute disproportionately to revenue.
 
 ## Dashboard
-- <a href="">Dashboard<a/>
+- <a href="https://github.com/riyas43/Power-BI/tree/main/Nike%20Global%20Sales%20%26%20Inventory%20Performance/images">Dashboard<a/>
 
 ## Business Insights
 
