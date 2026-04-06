@@ -34,17 +34,39 @@
 
 Purpose: Quick snapshot of business health
 
-- KPIs (Revenue, Products, Availability)
-- High-level performance indicators
+- KPIs (Revenue, Products, Availability).
+- High-level performance indicators.
 
 ### Pricing & Discount Analysis
 
 Purpose: Understand pricing strategy effectiveness
 
-- Product-wise price vs discount vs quantity
-- Top 10 highest discount products
+- Product-wise price vs discount vs quantity.
+- Top 10 highest discount products.
 - Price segmentation: Premium: $497
 - Mid-range: $191
 - Budget: $82
 
-### Insight: Premium products contribute high value despite lower volume.
+#### Insight: Premium products contribute high value despite lower volume.
+
+### Customer Segment Analysis
+
+Purpose: Understand target audience behavior.
+
+- Product distribution across gender.
+- Average price by gender segment.
+
+#### Insight: MEN segment dominates product count
+Mixed segments (MEN|WOMEN) have higher average pricing.
+
+### Size-Level Analysis
+
+Purpose: Optimize inventory planning
+
+- Size-wise available stock (M, L, S highest),
+- Revenue potential by size.
+- Stockout analysis.
+
+#### Insight: 
+- Common sizes (M, L, S) have highest demand.
+- Stockouts exist even in high-demand sizes → opportunity loss.
