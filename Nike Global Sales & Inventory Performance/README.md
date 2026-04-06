@@ -28,3 +28,23 @@
 - Out of Stock %: 2.17%
 - Average Price: $114.75
 - Average Discount %: 24.75%
+
+## Dashboard Sections & Insights
+### Overview Page
+
+Purpose: Quick snapshot of business health
+
+- KPIs (Revenue, Products, Availability)
+- High-level performance indicators
+
+### Pricing & Discount Analysis
+
+Purpose: Understand pricing strategy effectiveness
+
+- Product-wise price vs discount vs quantity
+- Top 10 highest discount products
+- Price segmentation: Premium: $497
+- Mid-range: $191
+- Budget: $82
+
+### Insight: Premium products contribute high value despite lower volume.
