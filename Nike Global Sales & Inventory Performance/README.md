@@ -56,8 +56,9 @@ Purpose: Understand target audience behavior.
 - Product distribution across gender.
 - Average price by gender segment.
 
-#### Insight: MEN segment dominates product count
-Mixed segments (MEN|WOMEN) have higher average pricing.
+#### Insight: 
+- MEN segment dominates product count
+- Mixed segments (MEN|WOMEN) have higher average pricing.
 
 ### Size-Level Analysis
 
