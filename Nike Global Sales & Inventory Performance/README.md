@@ -47,7 +47,8 @@ Purpose: Understand pricing strategy effectiveness.
 - Mid-range: $191
 - Budget: $82
 
-#### Insight: Premium products contribute high value despite lower volume.
+#### Insight: 
+Premium products contribute high value despite lower volume.
 
 ### 3. Customer Segment Analysis
 
@@ -94,4 +95,4 @@ Purpose: Deep dive into product performance.
 - Product distribution across segments.
 
 #### Insight:
-- Few premium products contribute disproportionately to revenue.
+Few premium products contribute disproportionately to revenue.
