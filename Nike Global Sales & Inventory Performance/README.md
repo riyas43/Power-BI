@@ -97,6 +97,8 @@ Purpose: Deep dive into product performance.
 #### Insight:
 Few premium products contribute disproportionately to revenue.
 
+## Dashboard
+
 ## Business Insights
 
 - Footwear dominates revenue → focus marketing & inventory here.
@@ -104,3 +106,20 @@ Few premium products contribute disproportionately to revenue.
 - Stockouts in key sizes → lost sales opportunity.
 - Premium segment → low volume, high revenue (important segment),
 - Gender segmentation shows MEN as primary target audience.
+
+## Recommendations
+
+### Reduce stockouts
+- Improve inventory for high-demand sizes (M, L, S).
+
+### Optimize discount strategy
+- Avoid excessive discounting on high-performing products.
+
+### Focus on footwear category
+- Increase investment in best-performing segment.
+
+### Expand premium product line
+- High revenue contribution despite lower volume.
+
+### Targeted marketing
+- Focus on MEN segment and high-value mixed segments.
