@@ -3,6 +3,9 @@
 ## Project Overview
 This project presents an interactive Bank Loan Analytics Dashboard developed using Power BI. The dashboard provides insights into loan distribution, repayment behaviour, customer segmentation, and risk analysis to support data-driven decision-making in financial institutions.
 
+## Dashboard Snapshot
+![dashboard_snapo]()
+
 ## Objective
 1. Analyse loan performance over time.
 2. Identify risk factors such as charged-off loans.
@@ -38,9 +41,6 @@ This project presents an interactive Bank Loan Analytics Dashboard developed usi
 3. Excel (Data Preparation)
 4. Data Modeling (Star Schema)
 5. DAX (Measures & Calculations)
-
-## Dashboard Preview
-- <a href="https://github.com/riyas43/Power-BI/blob/main/Bank%20Loan%20Analytics/Bank_loan_analytics_page-0001.jpg">Dashboard<a/>
 
 ## Business Recommendations
 1. Improve customer verification to reduce risk.
