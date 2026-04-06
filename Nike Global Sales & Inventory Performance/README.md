@@ -22,5 +22,5 @@
 - 1.Evaluate category and sub-category revenue potential
 - 2.Highlight high-performing product segments
 
-##Support data-driven decision making
+## Support data-driven decision making
    Help optimize pricing, inventory, and product strategy
