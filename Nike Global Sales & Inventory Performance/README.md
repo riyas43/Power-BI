@@ -123,3 +123,11 @@ Few premium products contribute disproportionately to revenue.
 
 ### Targeted marketing
 - Focus on MEN segment and high-value mixed segments.
+
+  
+## Conclusion
+
+This dashboard provides a 360-degree view of Nike’s product performance, enabling stakeholders to:
+- Improve inventory management.
+- Optimize pricing strategies.
+- Maximize revenue potential.
