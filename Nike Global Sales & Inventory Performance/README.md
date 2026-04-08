@@ -105,7 +105,7 @@ Few premium products contribute disproportionately to revenue.
 - Footwear dominates revenue → focus marketing & inventory here.
 - High discounts on some products → may impact profit margins.
 - Stockouts in key sizes → lost sales opportunity.
-- Premium segment → low volume, high revenue (important segment),
+- Premium segment → low volume, high revenue (important segment).
 - Gender segmentation shows MEN as primary target audience.
 
 ## Recommendations
