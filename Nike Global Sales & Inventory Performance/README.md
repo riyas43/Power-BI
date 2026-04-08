@@ -15,10 +15,10 @@
 - Analyze product distribution.
 - Pricing across gender segments.
 ### Identify revenue opportunities
-- Evaluate category and sub-category revenue potential
-- Highlight high-performing product segments
+- Evaluate category and sub-category revenue potential.
+- Highlight high-performing product segments.
 ### Support data-driven decision making
-- Help optimize pricing, inventory, and product strategy
+- Help optimize pricing, inventory, and product strategy.
 
 
 ## KPIs (Top Metrics)
